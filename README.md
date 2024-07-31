@@ -1,0 +1,3 @@
+- Hello, im FTheCapivara
+- I like drawing
+- I’m currently learning Python
